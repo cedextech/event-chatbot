@@ -1,0 +1,19 @@
+{
+  "name": "dcb_bankeventbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api-ai-recognizer": "^1.1.1",
+    "botbuilder": "^3.9.1",
+    "botbuilder-quickreplies": "^1.1.1",
+    "dotenv": "^4.0.0",
+    "request": "^2.81.0",
+    "restify": "^5.2.0"
+  }
+}

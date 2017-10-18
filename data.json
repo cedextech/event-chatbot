@@ -1,0 +1,340 @@
+{
+	"name": "DCB Bank-Innovation Carnival",
+	"about": "DCB Innovation carnival seeks to revolutionize the way banking & financial services are delivered by harnessing innovation and technology to enhance accessibility.",
+	"about_more": "We provides great environment for Students, Developers, Domain experts & Startups to showcase new solutions in Fintech domains such as Block chain, Digital Payments, IOT, Artificial Intelligence and Robotic Process Automation to name a few.",
+	"venue": "DCB Bank, 9th Floor, Tower A Peninsula Business Park, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra.",
+	"FAQ": {
+		"OrganizingOfflineEvent": "No",
+		"WinnersDeclaration": "Winners will be announced at the end of the event, which will be held on 30th Oct, 2017 at DCB bank.",
+		"DemoDayLocation": "The final event will be held at DCB Bank at Mumbai on 30th Sep, 2017.",
+		"OwnerofGeneratedIP": "You do!",
+		"MultipleSolutionsForTheme": "No. You are allowed to submit only one idea per theme.",
+		"SolutionForMultipleTheme": "No, you cannot submit solutions for more than one theme.",
+		"IndividualParticipation": "No, you can't register as an individual.",
+		"TeamSize": "Each team can have a minimum of 2 & maximum of 4 members.",
+		"ParticipationEligibility": "DCB innovation carnival is open for Students, Startups, Developer & Domain experts.",
+		"EventRegistration": "Register as a new user, by clicking the 'Register' button in the portal. Registration is mandatory for participating in the program."
+	},
+	"mentors": [
+		{
+			"name": "Venkatesh",
+			"image": "https://media.licdn.com/media/AAEAAQAAAAAAAAZHAAAAJDBjZGNmNGYxLTdiYmQtNGM3ZC1iMzY1LTI3NGI5Yzg4N2Q0Mw.jpg",
+			"about": "President & Head Banking Operations, Technology & Human Resources at DCB Bank Ltd"
+		},
+		{
+			"name": "Meghana Rao",
+			"image": "https://media.licdn.com/media/AAEAAQAAAAAAAAK6AAAAJGFmN2U1YjljLWE4MjUtNGU1Ni1hZjhiLWU2NmM0ZGE2NGYzZA.jpg",
+			"about": "Head-Service Excellence, Vice President DCB Bank Limited"
+		},
+		{
+			"name": "Gaurav Mehta",
+			"image": "https://s15.postimg.org/3l21burd7/Gaurav_894698489.jpg",
+			"about": "Head Marketing & PR at DCB Bank"
+		},
+		{
+			"name": "Prasanna Lohar",
+			"image": "https://s9.postimg.org/5zs976gdb/2017-05-27.jpg",
+			"about": "Head of Technology ( Digital Banking) at DCB Bank Ltd."
+		},
+		{
+			"name": "Neha Srivastav",
+			"image": "https://media.licdn.com/media/AAEAAQAAAAAAAAx2AAAAJDFhOWFjZjRhLTczMDAtNDY2Zi05ZGQ5LTYwZjM4ODA1MjMzNQ.jpg",
+			"about": "Campus Recruitment Manager at DCB Bank"
+		}
+	],
+	"partners": [
+		{
+			"category_name": "Technology Partners",
+			"category_id": 1,
+			"partners_by_category": [
+				{
+					"name": "Microsoft",
+					"image": "https://s4.postimg.org/aj5qz11ot/micro.png"
+				},
+				{
+					"name": "IBM Bluemix",
+					"image": "https://s21.postimg.org/iqc5buytz/logo-bluemix.png"
+				},
+				{
+					"name": "Envestnet Yodlee",
+					"image": "https://s18.postimg.org/5i4vfaszt/yodllee.png"
+				},
+				{
+					"name": "Infosys Finacle",
+					"image": "https://s21.postimg.org/kng1myrdj/Finacle-_Master_natural_vert_nt.png"
+				},
+				{
+					"name": "SIGNZY",
+					"image": "https://s22.postimg.org/d36wks88h/signzy.png"
+				},
+				{
+					"name": "Primechain Technologies",
+					"image": "https://s10.postimg.org/r79373a95/Primechain-_Logo.png"
+				},
+				{
+					"name": "redhat",
+					"image": "https://s22.postimg.org/9thaot6zl/redhat.png"
+				},
+				{
+					"name": "Digital Ocean",
+					"image": "https://s3.postimg.org/aw6tl24nn/digital_ocean.png"
+				},
+				{
+					"name": "Automation Edge",
+					"image": "https://s4.postimg.org/q9qqskc2l/Automation_Edge5a.png"
+				},
+				{
+					"name": "fido alliance",
+					"image": "https://s28.postimg.org/ov5onfxj1/FIDO_Alliance_Logo_Tagline_R.png"
+				},
+				{
+					"name": "HCL",
+					"image": "https://s10.postimg.org/crmfw8bm1/HCL_Logo_Blue.jpg"
+				},
+				{
+					"name": "Z Nation lab",
+					"image": "https://s4.postimg.org/8uwmtrtkd/Z_nation_logo_final-02.png"
+				},
+				{
+					"name": "Fortune Cookie U X Design",
+					"image": "https://s27.postimg.org/g2mu6um6b/FCUX-_Black-_Logo_1.png"
+				},
+				{
+					"name": "Cubestack Design",
+					"image": "https://s4.postimg.org/asjzoerzx/CS_logo-01.jpg"
+				}
+			]
+		},
+		{
+			"category_name": "Payments Partners",
+			"category_id": 2,
+			"partners_by_category": [
+				{
+					"name": "NPCI",
+					"image": "https://s10.postimg.org/9u1oz87ix/npci.jpg"
+				},
+				{
+					"name": "VISA",
+					"image": "https://s1.postimg.org/hhtlaxfq7/visa.png"
+				},
+				{
+					"name": "PayPal",
+					"image": "https://s12.postimg.org/nok4xcw6l/paypal.png"
+				}
+			]
+		},
+		{
+			"category_name": "Communication Partner",
+			"category_id": 3,
+			"partners_by_category": [
+				{
+					"name": "Flock",
+					"image": "https://s21.postimg.org/ywybl4f7r/flock.png"
+				}
+			]
+		},
+		{
+			"category_name": "Media Partner",
+			"category_id": 4,
+			"partners_by_category": [
+				{
+					"name": "Banking Frontiers",
+					"image": "https://s24.postimg.org/txu9th0wl/banking_frontiers.png"
+				}
+			]
+		}
+	],
+	"timeline": [
+		{
+			"name": "Phase 1- Solution Ideation",
+			"id": 1,
+			"description": "Phase 1- Solution Ideation.\nPick any one theme and build your idea around a potential solution and submit your solution overview along with the supporting documents.",
+			"image": "http://frameconcepts.com/wp-content/uploads/2016/06/Ideation.png"
+		},
+		{
+			"name": "Phase 2- Solution Development",
+			"id": 2,
+			"description": "Phase 2- Solution Development.\nShortlisted participants will be provided with access to Partner APIs and they will have to develop a minimum viable solution.",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqWiIslVWf4tCG91xeZRor6_2-DBqI3qGo-spsCqOGDOJY9WstQ"
+		},
+		{
+			"name": "Phase 3 - Solution Showcase",
+			"id": 3,
+			"description": "Phase 3 - Solution Showcase.\nFinalists will be invited to present their minimum viable solution to an eminent Jury.Top 3 teams from each category will be felicitated.",
+			"image": "https://www.evault.com/globalassets/images-resources/data-backup-recovery/esg-solution-showcase.jpg"
+		}
+	],
+	"rewards_recognition": {
+		"student_category": [
+			{
+				"name": "First Prize",
+				"price": "INR 2,00,000",
+				"image": "http://www.sahrdaya.ac.in/eminence/prizes/first-prize-thumb13140311.jpg"
+			},
+			{
+				"name": "Second Prize",
+				"price": "INR 1,00,000",
+				"image": "http://hackathon.io.s3.amazonaws.com/events/prizes/images/000/001/500/original/2nd-thumb.jpg?1444830309"
+			},
+			{
+				"name": "Third prize",
+				"price": "INR 50,000",
+				"image": "http://hackathon.io.s3.amazonaws.com/events/prizes/images/000/001/501/original/3rd-thumb.jpg?1444830329"
+			}
+		],
+		"professional_category": [
+			{
+				"name": "First Prize",
+				"price": "INR 3,00,000",
+				"image": "http://www.thefestival.co.uk/wp-content/uploads/2015/02/1st-Trophy2.jpg"
+			},
+			{
+				"name": "Second Prize",
+				"price": "INR 2,00,000",
+				"image": "http://www.thefestival.co.uk/wp-content/uploads/2015/02/2nd-Trophy.jpg"
+			},
+			{
+				"name": "Third Prize",
+				"price": "INR 1,00,000",
+				"image": "http://www.thefestival.co.uk/wp-content/uploads/2015/02/3rd-Trophy.jpg"
+			}
+		]
+	},
+	"why_participate": [
+
+		{
+			"category": "Students",
+			"id": 1,
+			"description": "If you are a Student, then this is an excellent opportunity to showcase your knowledge and skills to the industry leader.",
+			"image": "https://d30y9cdsu7xlg0.cloudfront.net/png/35785-200.png"
+		},
+		{
+			"category": "Startups",
+			"id": 2,
+			"description": "Entrepreneurs & Aspiring Entrepreneurs partner with DCB to convert your idea into a market ready product.",
+			"image": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAe1AAAAJDc5MmRmOTA4LWRlZjUtNDlmMy1hZTg0LWE1ZjJlZjcyN2E0YQ.png"
+		},
+		{
+			"category": "Developer",
+			"id": 3,
+			"description": "If you are a Developer, then this is your opportunity to make an impression and be recognised by the industry leader.",
+			"image": "http://icons.iconarchive.com/icons/shaunkleyn/phlat-blue-folders/512/Developer-icon.png"
+		},
+		{
+			"category": "Domain Expert",
+			"id": 4,
+			"description": "If you are a Domain Expert, then this is your moment to showcase your ideas that will simplify complex challenges & get recognised.",
+			"image": "https://cdn4.iconfinder.com/data/icons/business-relations/512/brain_mind_thinking_idea_memory_think_human_organ-512.png"
+		}
+	],
+	"Themes": {
+		"description": "Choose any one of the Themes listed below & submit your presentation which details out the anticipated gaps & unique business challenges, which your startup can address.Entries will be judged on the basis relevance to business and scalability.",
+		"categories": [
+			{
+				"name": "Banking",
+				"options": [
+					{
+						"name": "Lending",
+						"description": "India has lots of potential to work on Lending Models.This is line of business for bank. How can your solution help to produce a optimised framework to lend money? Let’s build simplified process of lending and borrowing.",
+						"apply_url": "http://dcb.innovationcarnival.in/register"
+					},
+					{
+						"name": "Payments Innovation",
+						"description": "60% Innovations in India are around Payments. We are seeing many Mobile Apps for payment. More than 60% Fintech are into Payment innovation. Let’s build an innovative Payment Experience on Mobile Application.",
+						"apply_url": "http://dcb.innovationcarnival.in/register"
+					},
+					{
+						"name": "Smart Village",
+						"description": "Smart Village, Rural FinTech solutions - 27% of India use Internet, There is less of connectivity. There are many such challenges to overcome. While there is some progress to overcome these challenges, can we build smart cashless villages? Let’s build an intelligent Payment solution to facilitate and encourage going cashless and paying digitally for utility bill payments, transport, public facilities, shopping and entertainment. Let’s build banking experience with Renewable Energy & relevant initiatives in India.",
+						"apply_url": "http://dcb.innovationcarnival.in/register"
+					},
+					{
+						"name": "Branch Transformation",
+						"description": "Need of Branches will be always today and tomorrow. But Branch Transformation will be a success key where we can see traditional branches can be transformed digitally for best customer experience & cost optimisation.",
+						"apply_url": "http://dcb.innovationcarnival.in/register"
+					},
+					{
+						"name": "Customer Experience",
+						"description": "This is on top of every Bank. DCB is among top 12 Banks in best Customer Service. How can your solution bring on best Customer Service, Engagement and Experience?",
+						"apply_url": "http://dcb.innovationcarnival.in/register"
+					},
+					{
+						"name": "Cashless World",
+						"description": "India has a long way to be a Cashless Country. Build an innovative Payment solution for a cash-less, card-less and paper-less future and leverage digital and mobile technologies to create Payments solution that is lower in cost and higher in efficiency.",
+						"apply_url": "http://dcb.innovationcarnival.in/register"
+					},
+					{
+						"name": "Enterprise Engineering Practices",
+						"description": "Right Architecture & Right Development methodology defines the growth of any Organisation. DevOps Tools, API Management, Enterprise Service Bus , Agile Methodologies are bring next level delivery experience . We wish to explore best practises around Enterprise wide engineering practices.",
+						"apply_url": "http://dcb.innovationcarnival.in/register"
+					},
+					{
+						"name": "Standard reconciliation solution",
+						"description": "With UPI , AEPS coming on the way it becomes important for banks to have a robust reconciliation. Banks are facing the challenge of not having a standard reconciliation solution in place. The existing solutions are either outdated or lack standardization. Bank is thus looking for a robust and flexible solution for all their transactions/payments/remittances etc.",
+						"apply_url": "http://dcb.innovationcarnival.in/register"
+					},
+					{
+						"name": "Fraud Risk Management",
+						"description": "Fraudsters are becoming increasingly sophisticated and more efficient in identifying and exploiting vulnerabilities. Existing fraud risk management tools are using traditional technology and have abundant silos of information which are prone to fraud risk. Bank is looking for an advanced analytics/AI based solution to manage these fraud risks.",
+						"apply_url": "http://dcb.innovationcarnival.in/register"
+					},
+					{
+						"name": "Agri-Inclusive Payment solution",
+						"description": "A large segment of the Indian consumer doesn’t have access to traditional online payment instruments such as debit and credit cards. Bank is looking for a robust (offline/online) payment solution to bring convenience of Payments/eCommerce to the unbanked population.",
+						"apply_url": "http://dcb.innovationcarnival.in/register"
+					}
+				]
+			},
+			{
+				"name": "Technology",
+				"options": [
+					{
+						"name": "Banking on BlockChain",
+						"description": "Blockchain is new Internet , let’s explore it. Blockchain can become a disruptive force that can help to bring the entire Banking, Financial and Payment industry together. Build innovative solution using Blockchain for FI/Payment industry that can lead to more accountability, less fraud, less dispute, faster settlement, smart assets, smart contracts, storing and verifying digital identity etc.",
+						"apply_url": "http://dcb.innovationcarnival.in/register"
+					},
+					{
+						"name": "Internet of Things",
+						"description": "Gartner Says 8.4 Billion Connected 'Things' Will Be in Use in 2017. We have seen Desktops, Laptops, Mobile Adoption culture for payments services. Next Big thing will be Internet of Things. Push the boundaries of innovation, reality and technology to create IoT based Payment concepts and solutions that can change the world for better.",
+						"apply_url": "http://dcb.innovationcarnival.in/register"
+					},
+					{
+						"name": "Cyber Security",
+						"description": "This is need of time with growing Transactions. So much of penetration of applications & we can’t imagine how users are increased over mobile applications, Social Media, Payments etc areas. Eye on Cyber Security will be key in 2017.",
+						"apply_url": "http://dcb.innovationcarnival.in/register"
+					},
+					{
+						"name": "Robotic Process Automation",
+						"description": "RPA is fast emerging as a highly efficient way to help financial institutions support their digital transformation initiatives. Best of all, you don’t need to wait months or even years to see the results. In an industry that is constantly looking to improve the consumer banking experience, mitigate risk and comply with regulations, and increase great efficiencies around core customer oriented processes, the use of intelligent software robots is already being put to use across many banks.",
+						"apply_url": "http://dcb.innovationcarnival.in/register"
+					},
+					{
+						"name": "Artificial Intelligence",
+						"description": "AI is new UI for Banking Services. AI can improve customer personalization, identify patterns and connections that humans can't, and answer questions about banking issues in real-time. Financial institutions are already finding success with AI. However, what may be 'amazing' today will be table stakes in the near future. AI will touch every type of business, it’s very much important to make AI part of each banking use cases e.g. Chatbots , Fraud Risk Management ,Conversational banking.",
+						"apply_url": "http://dcb.innovationcarnival.in/register"
+					},
+					{
+						"name": "Analytics & Big Data",
+						"description": "Every second we create new data. we perform 40,000 search queries every second (on Google alone), which makes it 3.5 searches per day and 1.2 trillion searches per year. The financial services industry has a vast reservoir of data on their customers, but is in the infancy stage of utilizing this data for financial or competitive gain. A large proportion of the current Big Data projects in banking revolve around customers - driving sales, boosting retention, improving service, and identifying needs, so the right offers can be served up at the right time. Big Data could transform businesses and economies? Let's prove it.",
+						"apply_url": "http://dcb.innovationcarnival.in/register"
+					},
+					{
+						"name": "Cloud Solutions",
+						"description": "By 2020, at least a third of all data will pass through the cloud (a network of servers connected over the Internet). ACloud-based payments enables you to make NFC based payment (Tap & Pay) using your mobile handsets and can be implemented through cloud-based security and tokenization. Build Payments idea / solution that is digital, multi-channel, real-time, fast, flexible, convenient and can disrupt the payments landscape.",
+						"apply_url": "http://dcb.innovationcarnival.in/register"
+					},
+					{
+						"name": "Banking on Social Media",
+						"description": "With increase in Number of users on Social Media , it is important channel to Banking. Social media is transforming banking relationships in very significant ways, from improving customer service to allowing users to send money to others via online platforms Social media can even impact your ability to get a loan. Integration is happing so quickly, it is possible to argue that social media platforms may be the banks of the future. Such high levels of penetration, use and engagement have meant that financial institutions are starting to recognize the opportunities social media can bring to their businesses. Social media platforms can no longer be considered places where people simply connect and communicate in real-time with the click of a button. Social Media are increasingly providing a broad range of services to their users either directly or through partners, making them central to people’s lives.",
+						"apply_url": "http://dcb.innovationcarnival.in/register"
+					},
+					{
+						"name": "Biometric Age",
+						"description": "India's biometrics market is projected to grow  & since last 2-3 years India biometric market to rise industrialization and presence of a large number of leading private sector companies in the region. Government, banking & finance, energy & power, and consumer electronics are the key end user segments where deployment of biometric systems is witnessing an increase, and this trend is expected to continue over the next five years. Current Trends, Market Trends & Developments IS Growing Usage of Multimodal Biometric Authentication Systems, Growing Adoption of Biometrics in e-commerce, Increasing Penetration of Biometrics in Banking Sector .New Biometric Technologies to Strengthening Security This will be a potential area to explore.",
+						"apply_url": "http://dcb.innovationcarnival.in/register"
+					}
+				]
+			}
+		]
+	}
+}
