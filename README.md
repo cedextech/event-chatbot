@@ -3,6 +3,8 @@
 An event chatbot developed using Microsoft Bot Framework (Node JS) + DialogFlow
 
 * [Chatbot Developer](https://www.onchatbot.com/)
+* [Microsoft Bot Framework](https://dev.botframework.com/)
+* [Dialogflow](https://dialogflow.com/)
 
 ### Useful Articles ###
 
